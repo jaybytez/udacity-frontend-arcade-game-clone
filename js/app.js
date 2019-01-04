@@ -1,5 +1,7 @@
+"use strict";
+
 // Enemies that run on coordinates
-var Enemy = function(x, y) {
+const Enemy = function(x, y) {
 
     // x axis
     // y axis
@@ -31,7 +33,7 @@ Enemy.prototype.update = function(dt) {
 };
 
 // Main player that run on coordinates
-var Player = function(x, y) {
+const Player = function(x, y) {
     // x axis
     // y axis
     this.x = x;
