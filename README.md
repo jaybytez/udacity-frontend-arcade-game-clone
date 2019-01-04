@@ -15,6 +15,7 @@ The project can be run within a modern web browser and text editor for editing, 
 - Or edit within your text editor.
 
 ## How to Play
+- The game can be accessed here: [Arcade Game Clone](https://jaybytez.github.io/udacity-frontend-arcade-game-clone/)
 - The goal of the game is to get the player to the top of the water
 - If you hit an enemy bug, then the game will reset
 - Use directional keys on the keyboard to move the player up, down, left and right.
